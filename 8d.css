@@ -1,0 +1,57 @@
+.first {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 2px;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 1px solid rgb(163, 161, 161);
+  width: 150px;
+  margin-bottom: 10px;
+
+
+}
+
+.second {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 2px;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 1px solid rgb(163, 161, 161);
+  display: inline-block;
+  width: 150px;
+
+
+}
+
+.email {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 2px;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 1px solid rgb(163, 161, 161);
+  display: block;
+  width: 320px;
+}
+
+.sign {
+  background-color: rgb(47, 127, 231);
+  color: white;
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 75px;
+  padding-right: 75px;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-top: 10px;
+  width: 335px;
+  font-size: 16px;
+
+}
+
+
